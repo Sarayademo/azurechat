@@ -2,7 +2,7 @@
 
 ChatGPTを上手に使うには命令文（プロンプト）を工夫することで効果が出ます。
 下記のサイトに詳しい使い方が載っていますので是非ご参考ください。
-[>ChatGPTなどで使える文例集]([URL](https://prompt.quel.jp/index.php?imode=1&theme=&sort=2)){:target="_blank"}
+[ChatGPTなどで使える文例集]([URL](https://prompt.quel.jp/index.php?imode=1&theme=&sort=2)){:target="_blank"}
 
 
 ご参考までにいくつかの命令文のサンプルを記載しました。コピペでぜひお試しください。
